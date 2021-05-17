@@ -1,8 +1,3 @@
-Hello word
-PPE
-PPE1
-PPE2
-
-1
-2
-3
+khoa 1
+khoa 2
+khoa 3
